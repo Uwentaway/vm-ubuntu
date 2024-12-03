@@ -22,4 +22,4 @@ jobs:
         shell: bash
         
       - name: Sleep
-        run: sleep 9999999999999999999999h
+        run: sleep 365d
